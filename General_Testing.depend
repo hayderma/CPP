@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1436814992 source:c:\users\dasubuntu\documents\programming\cpp\general_testing\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"content.h"
+	<conio.h>
+	<string>
+	<ctype.h>
+	<time.h>
+
+1436680962 c:\users\dasubuntu\documents\programming\cpp\general_testing\content.h
+	<stdio.h>
+	<string.h>
+
+1470197376 source:c:\users\aero\documents\programming\cpp\general_testing\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"content.h"
+	<conio.h>
+	<string>
+	<ctype.h>
+	<time.h>
+
+1436677364 c:\users\aero\documents\programming\cpp\general_testing\content.h
+	<stdio.h>
+	<string.h>
+
